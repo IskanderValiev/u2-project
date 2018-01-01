@@ -70,30 +70,31 @@
             </div>
             <div class="contacts">
                 <div class="contact">
-                    <img src="/images/email_logo.png" class="hovicon effect-1 sub-a">
-                    <span>email</span>
-                    <span></span>
+                    <a href="mailto:iskand.valiev@yandex.ru">
+                        <img src="/images/email_logo.png" class="hovicon effect-1 sub-a">
+                        <span>unityhall2@gmail.com</span>
+                    </a>
                 </div>
                 <div class="contact">
                     <img src="/images/phone-logo.png">
-                    <span>Телефон</span>
-                    <span></span>
+                    <span>2-500-222</span>
                 </div>
                 <div class="contact">
-                    <img src="/images/vk-logo2.png">
-                    <span>ВКонтакте</span>
-                    <span></span>
+                    <a href="https://vk.com/unityhome">
+                        <img src="/images/vk-logo2.png">
+                        <span>/unityhome</span>
+                    </a>
                 </div>
                 <div class="contact">
-                    <img src="/images/instagram-logo2.png">
-                    <span>Instagram</span>
-                    <span></span>
+                    <a href="https://instagram.com/">
+                        <img src="/images/instagram-logo2.png">
+                        <span>@unityhall2</span>
+                    </a>
                 </div>
                 <div class="contact">
                     <a href="#address">
                     <img src="/images/location-logo.png">
                     <span>Адрес</span>
-                    <span>Чистопольская, 3</span>
                     </a>
                 </div>
             </div>

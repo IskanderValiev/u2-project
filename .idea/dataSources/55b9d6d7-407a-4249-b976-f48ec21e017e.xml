@@ -12,8 +12,8 @@
     </database>
     <schema id="4" parent="2" name="public">
       <ObjectId>2200</ObjectId>
-      <IntrospectionTimestamp>2018-01-01.12:44:31.210</IntrospectionTimestamp>
-      <IntrospectionStateNumber>585</IntrospectionStateNumber>
+      <IntrospectionTimestamp>2018-01-01.14:56:07.351</IntrospectionTimestamp>
+      <IntrospectionStateNumber>615</IntrospectionStateNumber>
       <Current>1</Current>
       <Visible>1</Visible>
     </schema>
@@ -81,11 +81,11 @@
     </table>
     <table id="20" parent="4" name="event">
       <ObjectId>16426</ObjectId>
-      <StateNumber>569</StateNumber>
+      <StateNumber>615</StateNumber>
     </table>
     <table id="21" parent="4" name="image">
       <ObjectId>16437</ObjectId>
-      <StateNumber>585</StateNumber>
+      <StateNumber>615</StateNumber>
     </table>
     <table id="22" parent="4" name="persistent_logins">
       <ObjectId>16498</ObjectId>
@@ -371,13 +371,14 @@
       <OnDelete>cascade</OnDelete>
     </foreign-key>
     <foreign-key id="71" parent="21" name="fk11eryvnlhdl10whlvmeb9ipp6">
-      <ObjectId>16488</ObjectId>
+      <ObjectId>16508</ObjectId>
       <ColNames>event</ColNames>
       <RefTableId>16426</RefTableId>
       <RefColPositions>1</RefColPositions>
       <RefTableName>event</RefTableName>
       <RefKeyName>event_pkey</RefKeyName>
       <RefColNames>id</RefColNames>
+      <OnDelete>cascade</OnDelete>
     </foreign-key>
     <column id="72" parent="22" name="username">
       <Position>1</Position>

@@ -689,17 +689,20 @@ dialog td {
     width: 100%;
     margin: auto;
     overflow: hidden;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
 }
 
 .contact {
-    width: 15%;
+    width: 12%;
     float: left;
-    margin: 0 28px 0 28px;
+    margin: 0 4% 0 4%;
+    text-align: center;
 }
 
 .contact img {
-    width: 128px;
-    height: 128px;
+    width: 100%;
+    height: 100%;
 }
 
 .contact span {
@@ -707,7 +710,7 @@ dialog td {
 }
 
 .location {
-    width: 80%;
+    width: 100%;
     margin: auto;
 }
 
@@ -1008,6 +1011,7 @@ dialog td {
 }
 
 .unity-info ul {
+    margin-top: 0;
     list-style: none;
 }
 
@@ -1020,6 +1024,7 @@ dialog td {
 }
 
 .clients ul {
+    margin-top: 0;
     list-style: none;
 }
 
@@ -1048,6 +1053,7 @@ dialog td {
 }
 
 .admin ul {
+    margin-top: 0;
     list-style: none;
 }
 
