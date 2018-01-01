@@ -41,7 +41,6 @@ public class MenuController {
     @GetMapping("/menu/{category}")
     public String getDishesByCategory(@ModelAttribute("model")ModelMap model, @PathVariable("category")String category) {
         model.addAttribute("dishes", categoryRepository.findByTitle(category));
-        System.out.println(categoryRepository.findByTitle(category).toString());
         return "menu";
     }
 

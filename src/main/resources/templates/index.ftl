@@ -29,9 +29,9 @@
                             <li><a href="/contacts">Контакты</a></li>
                         </ul>
                     </div>
+                <#if (model.user)??>
                     <div class="auth-reg">
                         <ul>
-                        <#if (model.user??)>
                             <li>${model.user.name}
                                 <ul>
                                     <li><a href="/profile">Профиль</a></li>
@@ -39,11 +39,15 @@
                                     <li><a href="/exit">Выход</a></li>
                                 </ul>
                             </li>
-                        <#else>
-                            <li><a href="/authorization/enter">Войти</a></li>
-                        </#if>
                         </ul>
                     </div>
+                <#else>
+                    <div class="entry">
+                        <ul>
+                            <li><a href="/authorization/enter">Войти</a></li>
+                        </ul>
+                    </div>
+                </#if>
                     <div class="social-nets">
                         <a href="https://vk.com/unityhome"><img src="/images/vk_logo.png"></a>
                         <a href="https://instagram.com"><img src="/images/instagram_logo.png"></a>
