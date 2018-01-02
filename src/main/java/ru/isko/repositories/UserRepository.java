@@ -4,6 +4,7 @@ package ru.isko.repositories;
 import org.springframework.data.jpa.repository.JpaRepository;
 import ru.isko.models.User;
 
+import java.util.List;
 import java.util.Optional;
 
 /**
@@ -17,4 +18,5 @@ public interface UserRepository extends JpaRepository<User, Long> {
     Optional<User> findById(Long id);
     Optional<User> findByEmail(String email);
     Optional<User> findByHashLink(String hashLink);
+    List<User> findAllBySubscribe(boolean isSubscribed);
 }

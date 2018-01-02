@@ -141,6 +141,7 @@ h1{
 }
 
 .auth-reg{
+    z-index: 2;
     position:relative;
     margin-left: 10px;
     cursor: pointer;
@@ -1007,6 +1008,7 @@ dialog td {
 }
 
 .unity-info {
+    margin-top: 0;
     float: left;
 }
 
@@ -1016,7 +1018,7 @@ dialog td {
 }
 
 .unity-info ul li {
-    margin: 3px 0 3px 0;
+    margin: 4px 0 4px 0;
 }
 
 .clients {
@@ -1029,13 +1031,21 @@ dialog td {
 }
 
 .clients ul li {
-    margin: 0 3px 0 3px;
+    margin: 4px 0 4px 0;
 }
 
 .unity-contacts {
     float: right;
     font-family: Arial, sans-serif;
     font-size: 18px;
+}
+
+.schedule {
+    margin-top: 5px;
+    text-align: left;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    float: right;
 }
 
 .copyright {
@@ -1085,6 +1095,34 @@ dialog td {
 .profile-info {
     width: 100%;
     text-align: left;
+}
+
+/*-------------------------Notifications-------------------*/
+.notifications {
+    width: 80%;
+    margin: auto;
+}
+
+.notification {
+    width: 100%;
+    margin: auto;
+}
+
+.notification table {
+    width: 100%;
+}
+
+.notification table textarea {
+    resize: none;
+    width: 100%;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.notification input[type=text] {
+    width: 100%;
+    font-size: 16px;
+    border-radius: 5px;
 }
 
 /*-------------------------Adaptive-------------------------*/

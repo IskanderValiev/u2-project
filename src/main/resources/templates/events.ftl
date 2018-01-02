@@ -182,6 +182,7 @@
                     <ul>
                         <li style="font-size: 18px">Сотрудникам</li>
                         <li><a href="/admin/applications">Заявки на бронирование</a></li>
+                        <li><a href="/admin/notifications">Оповещения на почту</a></li>
                     </ul>
                 </div>
             </#if>

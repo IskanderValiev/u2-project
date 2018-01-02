@@ -138,6 +138,13 @@
                 <div class="unity-address-footer">
                     <span>Чистопольская, 3</span>
                 </div>
+                <div class="schedule">
+                    <span class="schedule-days">Пн-Чт: 12:00-02:00</span>
+                    <br>
+                    <span class="schedule-days">Пт-Cб: 12:00-04:00</span>
+                    <br>
+                    <span class="schedule-days">Вс: 14:00-02:00</span>
+                </div>
             </div>
             <div class="copyright">
                 <span>© Unity hall 2, 2017</span>
