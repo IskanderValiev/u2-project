@@ -38,6 +38,6 @@ public class NotificationController {
     @PostMapping("/admin/notification/add")
     public String addNotification(NotificationForm notificationForm) {
         notificationService.send(notificationForm);
-        return "redirect:/admin/notification";
+        return "redirect:/admin/notifications";
     }
 }

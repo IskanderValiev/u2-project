@@ -69,7 +69,7 @@
         <div class="content">
             <div class="notifications">
                 <div class="notification">
-                    <form action="" method="post">
+                    <form action="/admin/notification/add" method="post">
                         <table>
                             <col width="30%">
                             <col width="70%">
