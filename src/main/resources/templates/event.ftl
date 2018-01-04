@@ -9,20 +9,7 @@
     <meta name="author" content="Iskander Valiev">
     <title>Unity Hall 2</title>
     <link rel="stylesheet" type="text/css" href="/css/style.css">
-    <link rel="stylesheet" type="text/css" href="/css/multibox.css">
     <link rel="icon" type="image/ico" href="/favicon.ico">
-    <script type="text/javascript" src="/js/mootools.js"></script>
-    <script type="text/javascript" src="/js/overlay.js"></script>
-    <script type="text/javascript" src="/js/multibox.js"></script>
-    <script>
-        function sendImage(image) {
-            var formData = new FormData();
-            formData.append("image", image);
-            var xhr = new XMLHttpRequest();
-            xhr.open("POST", "/admin/menu/add/dish", true);
-            xhr.send(formData);
-        }
-    </script>
 </head>
 <body>
 <div class="main">
@@ -95,8 +82,7 @@
                 <div class="photos">
                     <#list model.photos as photo>
                         <div class="photo">
-                            <a href="/images/unity_logo.png" id="mb1" class="mb"><img src="/images/unity_logo.png"></a>
-                            <div class="multiBoxDesc mb1"></div>
+                            
                         </div>
                     </#list>
                 </div>

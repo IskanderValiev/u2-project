@@ -3,9 +3,6 @@
     <output-path>$PROJECT_DIR$/target</output-path>
     <root id="archive" name="UnityHall2Project-0.1.war">
       <element id="artifact" artifact-name="UnityHall2Project:war exploded" />
-      <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
-      </element>
     </root>
   </artifact>
 </component>
