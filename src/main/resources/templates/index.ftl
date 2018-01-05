@@ -68,9 +68,9 @@
             <hr>
             <div class="content">
                 <div class="slides">
-                    <div class="slide">
-                        <iframe src="//vk.com/video_ext.php?oid=-137147696&id=456239018&hash=bd7f732f7976aa78&hd=2" style="width: 100%; height: 550px;" frameborder="0" allowfullscreen></iframe>
-                    </div>
+                    <#--<div class="slide">-->
+                        <#--<iframe src="//vk.com/video_ext.php?oid=-137147696&id=456239018&hash=bd7f732f7976aa78&hd=2" style="width: 100%; height: 550px;" frameborder="0" allowfullscreen></iframe>-->
+                    <#--</div>-->
                     <#if (model.events)??>
                     <#list model.events as event>
                         <div class="slide">

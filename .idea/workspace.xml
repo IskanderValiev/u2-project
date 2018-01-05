@@ -2,172 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2132d93b-6c41-4fc6-9aaa-4d2d7878ef0d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_10_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/css/multibox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/js/mootools.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/js/multibox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/static/js/overlay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/checkstyle-result.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/application/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/comporators/ApplicationComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/comporators/EventComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/comporators/PromotionComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/controllers/ApplicationController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/controllers/ApplicationRestController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/controllers/AuthenticationController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/controllers/CategoryController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/controllers/ContactsController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/controllers/DishController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/controllers/EventController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/controllers/HomepageController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/controllers/MenuController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/controllers/NotificationController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/controllers/PasswordRestoringController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/controllers/ProfileController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/controllers/PromotionController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/controllers/RegistrationController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/controllers/StorageController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/controllers/VerifyController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/forms/AddingDishForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/forms/ApplicationForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/forms/CategoryForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/forms/EventForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/forms/NotificationForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/forms/PromotionForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/forms/UserAuthorizationForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/forms/UserRegistrationForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/models/Application$ApplicationBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/models/Application$State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/models/Application$Status.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/models/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/models/Category$CategoryBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/models/Category.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/models/Dish$DishBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/models/Dish.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/models/Event$EventBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/models/Event.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/models/Image$ImageBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/models/Image.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/models/Promotion$PromotionBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/models/Promotion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/models/User$UserBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/models/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/repositories/ApplicationRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/repositories/CategoryRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/repositories/DishRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/repositories/EventRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/repositories/ImageRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/repositories/PromotionRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/repositories/UserRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/security/config/WebSucurityConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/security/details/UserDetailsServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/security/details/UsersDetailImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/security/role/Role.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/security/state/State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/ApplicationService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/ApplicationServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/AuthenticationService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/AuthenticationServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/CategoryService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/CategoryServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/DishService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/DishServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/EmailService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/EmailServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/EventService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/EventServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/ImageStorageService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/ImageStorageServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/NotificationService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/NotificationServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/PromotionService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/PromotionServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/RegistrationService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/RegistrationServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/SystemService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/SystemServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/VerifyService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/services/VerifyServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/utils/HashLinkGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ru/isko/utils/ImageStorageUtil.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/55b9d6d7-407a-4249-b976-f48ec21e017e/_metadata_/metadata" afterPath="$PROJECT_DIR$/.idea/dataSources/55b9d6d7-407a-4249-b976-f48ec21e017e/_metadata_/metadata" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/55b9d6d7-407a-4249-b976-f48ec21e017e/_metadata_/metadata.values.at" afterPath="$PROJECT_DIR$/.idea/dataSources/55b9d6d7-407a-4249-b976-f48ec21e017e/_metadata_/metadata.values.at" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/font/lightcase.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/font/lightcase.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/font/lightcase.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/css/lightcase.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/font/lightcase.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/lightcase.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/multibox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/mootools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/multibox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/overlay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/css/multibox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/js/mootools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/js/multibox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/js/overlay.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1.war" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/Docker One.eot" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/Docker One.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/Docker One.otf" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/Docker One.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/Docker One.ttf" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/Docker One.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/Docker One.woff" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/Docker One.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/slick/slick.eot" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/slick/slick.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/slick/slick.ttf" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/slick/slick.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/slick/slick.woff" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/slick/slick.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/images/close.png" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/images/close.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/images/left.png" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/images/left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/images/leftDisabled.png" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/images/leftDisabled.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/images/loader.gif" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/images/loader.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/images/right.png" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/images/right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/images/rightDisabled.png" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/images/rightDisabled.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/slick/ajax-loader.gif" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/slick/ajax-loader.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/font/Docker One.eot" afterPath="$PROJECT_DIR$/target/classes/static/font/Docker One.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/font/Docker One.otf" afterPath="$PROJECT_DIR$/target/classes/static/font/Docker One.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/font/Docker One.ttf" afterPath="$PROJECT_DIR$/target/classes/static/font/Docker One.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/font/Docker One.woff" afterPath="$PROJECT_DIR$/target/classes/static/font/Docker One.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/font/slick/slick.eot" afterPath="$PROJECT_DIR$/target/classes/static/font/slick/slick.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/font/slick/slick.ttf" afterPath="$PROJECT_DIR$/target/classes/static/font/slick/slick.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/font/slick/slick.woff" afterPath="$PROJECT_DIR$/target/classes/static/font/slick/slick.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/images/close.png" afterPath="$PROJECT_DIR$/target/classes/static/images/close.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/images/left.png" afterPath="$PROJECT_DIR$/target/classes/static/images/left.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/images/leftDisabled.png" afterPath="$PROJECT_DIR$/target/classes/static/images/leftDisabled.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/images/loader.gif" afterPath="$PROJECT_DIR$/target/classes/static/images/loader.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/images/right.png" afterPath="$PROJECT_DIR$/target/classes/static/images/right.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/images/rightDisabled.png" afterPath="$PROJECT_DIR$/target/classes/static/images/rightDisabled.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/js/slick/ajax-loader.gif" afterPath="$PROJECT_DIR$/target/classes/static/js/slick/ajax-loader.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/UnityHall2Project_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/UnityHall2Project_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/UnityHall2Project_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/UnityHall2Project_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1.war.original" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1.war.original" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnityHall2Project.iml" afterPath="$PROJECT_DIR$/UnityHall2Project.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/css/style.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/event.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/event.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/component.css" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/component.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/default.css" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/multibox.css" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/multibox.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/slick-theme.css" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/slick-theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/slick-theme.less" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/slick-theme.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/slick-theme.scss" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/slick-theme.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/slick.css" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/slick.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/slick.less" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/slick.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/slick.scss" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/slick.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/Docker One.svg" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/Docker One.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/slick/slick.svg" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/font/slick/slick.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/mootools.js" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/mootools.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/multibox.js" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/multibox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/overlay.js" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/overlay.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/slick/config.rb" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/slick/config.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/slick/slick.js" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/slick/slick.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/slick/slick.min.js" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/js/slick/slick.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/css/component.css" afterPath="$PROJECT_DIR$/target/classes/static/css/component.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/css/default.css" afterPath="$PROJECT_DIR$/target/classes/static/css/default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/css/multibox.css" afterPath="$PROJECT_DIR$/target/classes/static/css/multibox.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/css/slick-theme.css" afterPath="$PROJECT_DIR$/target/classes/static/css/slick-theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/css/slick-theme.less" afterPath="$PROJECT_DIR$/target/classes/static/css/slick-theme.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/css/slick-theme.scss" afterPath="$PROJECT_DIR$/target/classes/static/css/slick-theme.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/css/slick.css" afterPath="$PROJECT_DIR$/target/classes/static/css/slick.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/css/slick.less" afterPath="$PROJECT_DIR$/target/classes/static/css/slick.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/css/slick.scss" afterPath="$PROJECT_DIR$/target/classes/static/css/slick.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/font/Docker One.svg" afterPath="$PROJECT_DIR$/target/classes/static/font/Docker One.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/font/slick/slick.svg" afterPath="$PROJECT_DIR$/target/classes/static/font/slick/slick.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/js/mootools.js" afterPath="$PROJECT_DIR$/target/classes/static/js/mootools.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/js/multibox.js" afterPath="$PROJECT_DIR$/target/classes/static/js/multibox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/js/overlay.js" afterPath="$PROJECT_DIR$/target/classes/static/js/overlay.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/js/slick/config.rb" afterPath="$PROJECT_DIR$/target/classes/static/js/slick/config.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/js/slick/slick.js" afterPath="$PROJECT_DIR$/target/classes/static/js/slick/slick.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/js/slick/slick.min.js" afterPath="$PROJECT_DIR$/target/classes/static/js/slick/slick.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/index.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/style.css" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/static/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/templates/event.ftl" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/templates/event.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/templates/index.ftl" afterPath="$PROJECT_DIR$/target/UnityHall2Project-0.1/WEB-INF/classes/templates/index.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/static/css/style.css" afterPath="$PROJECT_DIR$/target/classes/static/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/templates/event.ftl" afterPath="$PROJECT_DIR$/target/classes/templates/event.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/templates/index.ftl" afterPath="$PROJECT_DIR$/target/classes/templates/index.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -224,11 +85,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="event.ftl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="event.ftl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/event.ftl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="84" column="28" lean-forward="false" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
+            <state relative-caret-position="-170">
+              <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4">
+              <caret line="924" column="0" lean-forward="false" selection-start-line="924" selection-start-column="0" selection-end-line="924" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ftl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="70" column="30" lean-forward="false" selection-start-line="70" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
+              <folding>
+                <marker date="1515142772632" expanded="false" signature="3083:3110" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slider.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/slider.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -257,7 +150,6 @@
       <find>rese</find>
       <find>dialo</find>
       <find>slider</find>
-      <find>fonts</find>
       <find>eve</find>
       <find>slides</find>
       <find>cate</find>
@@ -273,10 +165,14 @@
       <find>auth</find>
       <find>schedu</find>
       <find>menu</find>
+      <find>.slides</find>
+      <find>.slides2</find>
+      <find>.photo</find>
+      <find>fonts</find>
     </findStrings>
     <replaceStrings>
-      <replace>font</replace>
       <replace>.auth-reg</replace>
+      <replace>font</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src/main/resources</dir>
@@ -293,7 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/static/js/slider.js" />
         <option value="$PROJECT_DIR$/src/main/java/ru/isko/repositories/ImageRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/isko/controllers/EventController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/static/css/multibox.css" />
@@ -323,7 +218,6 @@
         <option value="$PROJECT_DIR$/src/main/java/ru/isko/tags/MenuFreemarkerTag.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/profile.ftl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/applications.ftl" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/index.ftl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/new_dish.ftl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/new_event.ftl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/new_promotion.ftl" />
@@ -338,12 +232,14 @@
         <option value="$PROJECT_DIR$/src/main/java/ru/isko/repositories/UserRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/isko/services/NotificationServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/feedback.ftl" />
-        <option value="$PROJECT_DIR$/src/main/resources/static/css/style.css" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/notification.ftl" />
         <option value="$PROJECT_DIR$/src/main/java/ru/isko/controllers/NotificationController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/css/style.css" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/css/lightcase.css" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/event.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/index.ftl" />
       </list>
     </option>
   </component>
@@ -442,6 +338,41 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnityHall2Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnityHall2Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnityHall2Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnityHall2Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="font" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnityHall2Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnityHall2Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnityHall2Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnityHall2Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -471,24 +402,24 @@
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources/static/css" />
-      <recent name="$PROJECT_DIR$/src/main/resources/static/font" />
-      <recent name="$PROJECT_DIR$/src/main/resources/static" />
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources/static/css" />
-      <recent name="$PROJECT_DIR$/src/main/resources/static/images" />
-      <recent name="$PROJECT_DIR$/src/main/resources/static/js" />
-      <recent name="$PROJECT_DIR$/src/main/resources/static/font/slick" />
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ru.isko.services" />
       <recent name="ru.isko.models" />
       <recent name="ru.isko.security.details" />
       <recent name="ru.isko.repositories" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static/font" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/css" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/js" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/images" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/font/slick" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static/css" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/font" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -515,9 +446,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <module name="UnityHall2Project" />
       <envs />
-      <method>
-        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean package" />
-      </method>
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
@@ -641,16 +569,15 @@
       <workItem from="1514712382928" duration="174000" />
       <workItem from="1514729562251" duration="977000" />
       <workItem from="1514732268263" duration="11672000" />
-      <workItem from="1515058621086" duration="360000" />
+      <workItem from="1515058621086" duration="5506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219768000" />
+    <option name="totallyTimeSpent" value="224914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48488513" sideWeight="0.50858366" order="7" side_tool="true" content_ui="tabs" />
@@ -669,11 +596,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48488513" sideWeight="0.4914163" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48488513" sideWeight="0.4914163" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26323318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26323318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -737,34 +664,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/isko/forms/ApplicationForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/isko/services/ApplicationServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/isko/comporators/EventComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="17" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/isko/comporators/ApplicationComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/isko/models/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -826,6 +725,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#1054#1055#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -903,6 +805,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="65">
           <caret line="69" column="40" lean-forward="false" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -938,6 +841,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
           <caret line="144" column="24" lean-forward="false" selection-start-line="144" selection-start-column="24" selection-end-line="144" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1005,17 +909,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="150" column="18" lean-forward="false" selection-start-line="150" selection-start-column="18" selection-end-line="150" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/authorization.ftl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
           <caret line="83" column="32" lean-forward="false" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1044,13 +942,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="60" column="18" lean-forward="false" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1085,11 +977,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/jquery.tn3lite.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/lightcase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/lightcase.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4155">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="924" column="0" lean-forward="false" selection-start-line="924" selection-start-column="0" selection-end-line="924" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/event.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="84" column="28" lean-forward="false" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
+        <state relative-caret-position="-170">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="70" column="30" lean-forward="false" selection-start-line="70" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
+          <folding>
+            <marker date="1515142772632" expanded="false" signature="3083:3110" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

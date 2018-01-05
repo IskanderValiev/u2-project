@@ -8,8 +8,17 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="author" content="Iskander Valiev">
     <title>Unity Hall 2</title>
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
     <link rel="icon" type="image/ico" href="/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <!-- include jQuery library -->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/lightcase.css">
+    <script type="text/javascript" src="/js/lightcase.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function($) {
+            $('a[data-rel^=lightcase]').lightcase();
+        });
+    </script>
 </head>
 <body>
 <div class="main">
@@ -78,16 +87,24 @@
                     <span>${model.event.description}</span>
                 </div>
                 <#if (model.photos)??>
-                  <#--TODO complete multibox gallary-->
                 <div class="photos">
                     <#list model.photos as photo>
                         <div class="photo">
-                            
+                            <a href="/files/${photo.storageFileName}" data-rel="lightcase:myCollection" data-lc-categories="myCategory1"><img src="/files/${photo.storageFileName}"></a>
                         </div>
                     </#list>
                 </div>
                 </#if>
             </div>
+            <#--<#if (model.photos)??>-->
+                <#--<div class="slides">-->
+                    <#--<#list model.photos as photo>-->
+                        <#--<div class="slide">-->
+                            <#--<img src="/files/${photo.storageFileName}">-->
+                        <#--</div>-->
+                    <#--</#list>-->
+                <#--</div>-->
+            <#--</#if>-->
         </div>
     </div>
     <div class="footer">
@@ -130,12 +147,5 @@
         </div>
     </div>
 </div>
-<script src="http://yastatic.net/jquery/2.1.3/jquery.min.js"></script>
-<script type="text/javascript">
-    var box = {};
-    window.addEvent('domready', function(){
-        box = new MultiBox('mb', {descClassName: 'multiBoxDesc', useOverlay: true});
-    });
-</script>
 </body>
 </html>
