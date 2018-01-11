@@ -24,7 +24,7 @@ import javax.sql.DataSource;
  */
 @ComponentScan("ru.isko")
 @EnableWebSecurity
-public class WebSucurityConfig extends WebSecurityConfigurerAdapter {
+public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Autowired
     private UserDetailsService userDetailsService;

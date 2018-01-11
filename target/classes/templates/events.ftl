@@ -122,7 +122,7 @@
                 </#list>
                 </#if>
             </div>
-            <span class="pastEvents">Прошедшие события</span>
+            <span class="pastEvents" style="margin-top: 10px; margin-bottom: 10px">Прошедшие события</span>
             <div class="events">
                 <#if (model.pastEvents)??>
                 <#list model.pastEvents as pastEvent>
