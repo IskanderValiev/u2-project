@@ -15,55 +15,7 @@
 </head>
 <body>
     <div class="main">
-        <div class="header-container" style="width: 100%; margin: auto">
-            <div class="container">
-                <div class="header">
-                    <div class="unity-logo">
-                        <a href="/"><img src="/images/unity_logo.png"></a>
-                    </div>
-                    <div class="menu">
-                        <ul>
-                            <li><a href="/menu">Меню</a></li>
-                            <li><a href="/promotions">Акции</a></li>
-                            <li><a href="/events">Мероприятия</a></li>
-                            <li><a href="/contacts">Контакты</a></li>
-                        </ul>
-                    </div>
-                <#if (model.user)??>
-                    <div class="auth-reg">
-                        <ul>
-                            <li>${model.user.name}
-                                <ul>
-                                    <li><a href="/profile">Профиль</a></li>
-                                    <li><a href="#">Мои заявки</a></li>
-                                    <li><a href="/exit">Выход</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
-                <#else>
-                    <div class="entry">
-                        <ul>
-                            <li><a href="/authorization/enter">Войти</a></li>
-                        </ul>
-                    </div>
-                </#if>
-                    <div class="social-nets">
-                        <a href="https://vk.com/unityhome"><img src="/images/vk_logo.png"></a>
-                        <a href="https://instagram.com"><img src="/images/instagram_logo.png"></a>
-                        <br>
-                        <span>8 (843) 500-222</span>
-                    </div>
-                    <div style="clear: both"></div>
-                </div>
-            </div>
-        </div>
-        <div class="background2">
-            <img src="/images/back2.png">
-        </div>
-        <div class="background">
-            <img src="/images/back1.png">
-        </div>
+    <#include "tags/header.ftl">
         <div class="container">
             <hr>
             <div class="content">
@@ -111,6 +63,22 @@
                 </div>
             </div>
         </div>
+
+        <div class="modal">
+            <div class="modal-wrapper">
+                <div class="modal-header">
+                    <span class="closeBtn">&times;</span>
+                    <h3>I am modal!</h3>
+                </div>
+                <div class="modal-body">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus enim impedit maiores veritatis corrupti blanditiis molestias, hic illum architecto doloremque ad nostrum necessitatibus. Voluptatibus et aliquid est vitae dolor quia.</p>
+                </div>
+                <div class="modal-footer">
+                    <h3>Hi! I am footer!</h3>
+                </div>
+            </div>
+        </div>
+
         <div class="footer">
             <div class="information">
                 <div class="unity-logo-footer">
@@ -154,5 +122,25 @@
     <script src="http://yastatic.net/jquery/2.1.3/jquery.min.js"></script>
     <script src="/js/slick/slick.min.js"></script>
     <script src="/js/slider.js"></script>
+    <script type="application/javascript">
+        var modal = document.querySelector('.modal'), // Модальное окно
+                closeBtn = document.querySelector('.closeBtn'); // Кнопка, закрывающая модальное окно
+
+        // Открытие модального окна
+        function openModalWindow() {
+            modal.style.display = 'flex';
+        }
+
+        // Закрытие модального окна при клике на кнопку
+        closeBtn.addEventListener('click', function () {
+            modal.style.display = "none";
+        });
+        // Закрытие модального окна при клике на серую область
+        window.addEventListener('click', function (e) {
+            if(e.target == modal) {
+                modal.style.display = "none";
+            }
+        })
+    </script>
 </body>
 </html>
